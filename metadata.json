@@ -1,0 +1,6 @@
+{
+  "name": "Tense Master",
+  "description": "Master English tenses with an infinite dynamically generated quiz engine, robust local statistical tracking, structured learning cheatsheets, and personalized grammar explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
